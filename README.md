@@ -32,3 +32,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages & Tools 🔦🔬💉🧪
+
+
+[![Python](https://img.shields.io/badge/Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev) 
+
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-tf-orange)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-keras-red)](https://keras.io/)
+[![Flutter](https://img.shields.io/badge/Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Pandas](https://img.shields.io/badge/Pandas%20-pd-blue)](https://pandas.pydata.org/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/duonghominhhuy) 
