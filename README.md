@@ -19,12 +19,9 @@
 <br/>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 Student at National Institute of Technology, Raipur 
 - 🌱 I’m currently learning more about Computer Vision
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Data Science 
 - 📫 How to reach me:  [Twitter - @Kapil](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
