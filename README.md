@@ -1,4 +1,6 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Kapil
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://twitter.com/kappu2512">
   <img align="left" alt="Kapil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,6 +20,7 @@
 <br/>
 <br/>
 
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 Final year student at National Institute of Technology, Raipur 
 - 🌱 I’m currently learning more about Computer Vision
@@ -28,7 +31,7 @@
 - ⚡ Fun fact: ...
 
 
-### Languages & Tools 🔦🔬💉🧪
+### 🛠 &nbsp;Tech Stack
 
 
 [![Python](https://img.shields.io/badge/Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org)
