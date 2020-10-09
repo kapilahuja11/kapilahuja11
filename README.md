@@ -47,6 +47,8 @@
 <a href="https://www.facebook.com/kapil.ahuja2/">
   <img align="left" alt="Kapil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mailto:kapil.ahuja.kapil11@gmail.com"><i class="fa fa-envelope"></i></a>
+<a href="mailto:kapil.ahuja.kapil11@gmail.com">
+  <img align="left" alt="Kapil's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+</a>
 <br/>
 <br/>
