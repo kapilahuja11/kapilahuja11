@@ -8,7 +8,7 @@
 - 💬 Ask me about Data Science 
 - 📫 How to reach me:  [Twitter - @kappu2512](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1psaryrI173qq4eil0HJpTkZ_EgJyZvVh/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
