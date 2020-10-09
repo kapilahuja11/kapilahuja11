@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  [Twitter - @Kapil](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
 
 ### Languages & Tools 🔦🔬💉🧪
 
