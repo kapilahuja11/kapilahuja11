@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🔭 Student at National Institute of Technology, Raipur 
+- 🔭 Final year student at National Institute of Technology, Raipur 
 - 🌱 I’m currently learning more about Computer Vision
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 💬 Ask me about Data Science 
