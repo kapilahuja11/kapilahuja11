@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-tf-orange)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-keras-red)](https://keras.io/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-torch-red)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas%20-pd-blue)](https://pandas.pydata.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Pandas](https://img.shields.io/badge/Pandas%20-pd-blue)](https://pandas.pydata.org/) 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/duonghominhhuy) 
