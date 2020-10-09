@@ -18,8 +18,6 @@
 <br/>
 <br/>
 
-<!--
-**kapilahuja11/kapilahuja11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  [Twitter - @Kapil](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
+
 
 ### Languages & Tools 🔦🔬💉🧪
 
