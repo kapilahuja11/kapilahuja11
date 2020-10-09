@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning more about Computer Vision
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 💬 Ask me about Data Science 
-- 📫 How to reach me:  [Twitter - @Kapil](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
+- 📫 How to reach me:  [Twitter - @Kappu2512](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
