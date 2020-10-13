@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about Computer Vision
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 💬 Ask me about Data Science 
-- 📫 How to reach me:  [Twitter - @kappu2512](https://twitter.com/kappu2512) , [Linkedin](https://www.linkedin.com/in/kapilahuja11/)
+- 📫 How to reach me:  [Twitter - @kappu2512](https://twitter.com/kappu2512) , [Linkedin- @kapilahuja11](https://www.linkedin.com/in/kapilahuja11/)
 - 😄 Pronouns: He/His
 - 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1psaryrI173qq4eil0HJpTkZ_EgJyZvVh/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
